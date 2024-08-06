@@ -1,0 +1,58 @@
+.canvasChart {
+    margin: 0vh 2vw 6vh 2vw;
+    width: 95%;
+    padding: 2vh 3vw 5vh 3vw;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.aduan-card{
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    padding: 3vh;
+    width: 14vw ;
+    height: 21vh;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.aduan-card:hover {
+    filter: brightness(95%);
+}
+
+.dashboard-card{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    height: 34vh;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-card h2 {
+    font-size: 4vh;
+    margin: 0vh 0vw 0 0.3vw;
+}
+
+.dashboard-card p {
+    font-size: 12px;
+    margin: 0vh 0vw 0 0.3vw;
+}
+
+.icon-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-bottom: 3px;
+    color: #fff;
+  }
+
+  .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 12px !important;
+  }

@@ -1,0 +1,17 @@
+.add-contact-title{
+    display: flex;
+    /* justify-content: center; */
+    font-size: 3vh;
+    font-weight: bold;
+    margin: 2vh 0vw 2vh 0vw;
+}
+
+.add-contact-button-save{
+    display: flex;
+    justify-content: normal;
+    margin: 3vh 0vw 0vh 0vw;
+}
+
+.dialog-head{
+    text-align: center;
+}

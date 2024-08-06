@@ -1,0 +1,15 @@
+.body-aggrid{
+    height: 82vh;
+    width: 100%;
+    padding: 2vh 1vw 0vh 1vw;
+}
+.header-bold {
+    font-weight: bold;
+}
+.button-excell{
+    margin: 10.5vh 0vw 0vh 1vw !important;
+    background-color: white !important;
+    color: black !important;
+    height: 5vh !important;
+    font-size: 1.9vh !important;
+}

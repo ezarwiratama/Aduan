@@ -1,0 +1,113 @@
+.login-body {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(93deg, #0062ff, #da61ff);
+  min-height: 100vh;
+}
+
+.login-container {
+  width: 300px;
+  margin-right: auto;
+  margin-left: 7vw;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form label {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  width: 93%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.login-form button {
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.login-form button:hover {
+  background-color: #0056b3;
+}
+
+.logo-login {
+  width: 30vw;
+  margin-left: 18vw;
+}
+
+/* .auth-body {
+  display: flex;
+    align-items: center;
+    background: linear-gradient(93deg, #0062ff, #da61ff);
+    min-height: 100vh;
+    justify-content: center;
+}
+
+.logo-auth {
+  width: 60vh;
+}
+
+.auth-container {
+  max-width: 20vw;
+  width: 100%;
+  margin-right: auto;
+  margin-left: 7vw;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.auth-form .MuiTextField-root {
+  margin-bottom: 16px;
+}
+
+.auth-title{
+  text-align: center;
+  font-size: 4vh !important;
+  font-weight: 500 !important;
+  margin: 4vh !important;
+}
+
+.auth-form .MuiTextField-root {
+  margin: 1vh 0 2vh 0 !important;
+}
+
+.auth-button{
+  margin-top: 1vh !important;
+  width: 20vw !important;
+  border-radius: 30px !important;
+} */

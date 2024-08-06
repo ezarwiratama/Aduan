@@ -1,0 +1,80 @@
+.dashboard-container-message {
+    display: flex;
+  }
+  
+  .sidebar-message {
+    width: 200px;
+    min-height: 100vh;
+    max-height: auto;
+    background: linear-gradient(93deg, #0062ff, #da61ff);
+    color: #fff;
+  }
+  
+  .sidebar-nav-message {
+    list-style-type: none;
+    position: fixed;
+    padding: 0;
+  }
+  
+  .sidebar-nav-message li {
+    padding: 10px 20px;
+    display: flex;
+  }
+  
+  .sidebar-nav-message li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 1vh;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .message-container-message {
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
+    gap: 20px;
+  }
+  
+  .message-card-message {
+    margin: 12vh 2vw 4vh 2vw;
+    width: auto;
+    height: auto;
+    padding: 5vh;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .message-title-message {
+    margin-bottom: 4vh;
+    margin-top: 1vh;
+    font-size: 3vh;
+    font-weight: bold;
+  }
+  
+  .message-content-message {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .detail-pesan {
+    margin: 0;
+    padding: 1vw;
+  }
+
+  .button-close {
+    float: right;
+  }
+
+  .button-kembali {
+    margin: 4vh;
+  }
+
+  .button-simpan {
+    margin-top: 4vh;
+  }

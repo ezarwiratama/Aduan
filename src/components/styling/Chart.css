@@ -1,0 +1,8 @@
+.custom-legend {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    padding-left: 10px;
+    border-left: 1px solid #ddd;
+  }
+  
